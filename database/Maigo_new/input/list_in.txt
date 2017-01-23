@@ -1,0 +1,4 @@
+Jap.txt high_do.wav 200 300
+Jap.txt mid_so#.wav 150 250
+Jap.txt mid_mi.wav 100 200
+Jap.txt mid_do.wav 100 150

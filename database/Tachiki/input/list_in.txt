@@ -1,0 +1,6 @@
+all.txt Tachiki_110Hz.wav 100 120
+all.txt Tachiki_220Hz.wav 210 230
+all.txt Tachiki_330Hz.wav 320 340
+all.txt Tachiki_440Hz.wav 430 450
+all.txt Tachiki_550Hz.wav 540 560
+all.txt Tachiki_660Hz.wav 650 670

@@ -1,0 +1,127 @@
+'Mune ga Dokidoki
+
+Singer Maigo_new
+Key A2
+Beat 4/4
+Tempo 159
+Quantize 8
+AccomAmplify 0.5
+VoiceAmplify 0.5
+
+RestTime 4.548
+RestBars 8
+Melody
+  &             |               |               |               |
+5 &3 3 3 3 5   5|    0          |3   3   3 2   1|    0          |
+  &             |               |               |               |
+hyakunen buri  no                se  i   kima  cu
+               |               |               |               |
+5 3 3 3 3 5   5|    0          |5 3 3 3 3 2   1|    0          |
+               |               |               |               |
+naketoi ware  te                bokuwawara    ta
+End Melody
+RestBars 4
+Melody
+               |               |               |               |
+5 3 3 3 3 5   5|    0          |3   3   3 2   1|    0          |
+               |               |               |               |
+hisakataburi  no                se  i   kima  cu
+               |               |               |               |
+5 3 3 3 3 5   5|    0          |5 3 3 3 3 2   1|    0         5|
+               |               |               |               |
+hiroi sekai   e                 tobidasiteyu  ku              o
+               |               |               |               |
+6         5 4 3|4 5 6     6 6 4|5         4 3 2|3 4 5         0|
+               |               |               |               |
+ko        domonokoroni    wakarika        ketetakotoga
+               |               |               |               |
+6         5 4 3|4 5 6          |0   5   5   6  |5   4   5   5  |
+               |               |               |               |
+o         tonanina  te              wa  ka  ra  na  i   ma  ma
+               |               |               |               |
+0   3   3   2  |2 1   2 3     0|    3   3   2  |2 1   2 3     0|
+               |               |               |               |
+    e   ra  ku  mona  i si          ri      pa  demo  nai
+               |               |               |               |
+0   4   4   3  |3 2   3 4     0|    4   4   3  |3   2   1   2  |
+               |               |               |               |
+    wa  ka      teru  nowa          mu  ne  no  do  ki  do  ki
+               |               |               |               |
+0   3   3   2  |2 1   2 3     0|    3   3   2  |2 1   2 3     0|
+               |               |               |               |
+    ko  ta  e   demo  nai           ho  n   to  demo  nai
+               |               |               |               |
+0   4   4   3  |3 2   3 4     0|    4   4   3  |3   2   1   2  |
+               |               |               |               |
+    si  n   ji  teru  nowa          mu  ne  no  do  ki  do  ki
+               |               |               |               |
+0   4   4   3  |3   2   1   2  |3 1            |    0          |
+               |               |               |               |
+    mu  ne  no  do  ki  do  ki  dake
+End Melody
+RestBars 20
+Melody
+               |               |               |               |
+5 0 3 3 3 5   5|    0          |5 3 3 3 3 2   1|    0          |
+               |               |               |               |
+ka  koi i ka  wa                wakaranai ke  do
+               |               |               |               |
+5 3 3 3 3 5   5|    0          |3 3 3 3 3 2   1|    0          |
+               |               |               |               |
+o sae kirena  i                 yumewomitan   da
+End Melody
+RestBars 4
+Melody
+               |               |               |               |
+5 3 3 3 3 5   5|    0          |5 0 3 3 3 2   1|    0          |
+               |               |               |               |
+sakusen tate  te                ji  tomacuyo  ri
+               |               |               |               |
+5 3 3 3 3 5   5|    0          |5 3 3 0 3 2   1|    0         5|
+               |               |               |               |
+kodomonomama  de                bucuka  teyu  ku              o
+            &   |               |               |               |
+6         5 &4 3|4 5 6     6 6 4|5         4 3 2|3 4 5         5|
+            &   |               |               |               |
+u         chuu nohateni    hatawota        tetatositemo        o
+            &   |               |               |               |
+6         5 &4 3|4 5 6          |0   5   5   6  |5   4   5   5  |
+            &   |               |               |               |
+u         chuu nonazowa              wa  ka  ra  na  i   ma  ma
+               |               |               |               |
+0   3   3   2  |2 1   2 3     0|    3   3   2  |2 1   2 3     0|
+               |               |               |               |
+    e   ra  ku  mona  i si          ri      pa  demo  nai
+               |               |               |               |
+0   4   4   3  |3 2   3 4     0|    4   4   3  |3   2   1   2  |
+               |               |               |               |
+    wa  ka      teru  nowa          mu  ne  no  do  ki  do  ki
+               |               |               |               |
+0   3   3   2  |2 1   2 3     0|    3   3   2  |2 1   2 3     0|
+               |               |               |               |
+    ko  ta  e   demo  nai           ho  n   to  demo  nai
+               |               |               |               |
+0   4   4   3  |3 2   3 4     0|    4   4   3  |3   2   1   2  |
+               |               |               |               |
+    si  n   ji  teru  nowa          mu  ne  no  do  ki  do  ki
+               |               |               |               |
+0   3   3   2  |2 1   2 3     0|    3   3   2  |2 1   2 3     0|
+               |               |               |               |
+    e   ra  ku  mona  i si          ri      pa  demo  nai
+               |               |               |               |
+0   4   4   3  |3 2   3 4     0|    4   4   3  |3   2   1   2  |
+               |               |               |               |
+    wa  ka      teru  nowa          mu  ne  no  do  ki  do  ki
+               |               |               |               |
+0   3   3   2  |2 1   2 3     0|    3   3   2  |2 1   2 3     0|
+               |               |               |               |
+    ko  ta  e   demo  nai           ho  n   to  demo  nai
+               |               |               |               |
+0   4   4   3  |3 2   3 4     0|    4   4   3  |3   2   1   2  |
+               |               |               |               |
+    si  n   ji  teru  nowa          mu  ne  no  do  ki  do  ki
+               |               |               |               |
+0   4   4   3  |3   2   1   2  |3 1            |    0          |
+               |               |               |               |
+    mu  ne  no  do  ki  do  ki  dake
+End Melody

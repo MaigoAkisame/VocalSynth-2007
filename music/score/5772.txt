@@ -1,0 +1,226 @@
+'Haru no Yobigoe
+
+Singer Maigo_new
+Key C3
+Beat 2/4
+Tempo 82
+AccomAmplify 0.55
+VoiceAmplify 0.45
+
+RestTime 1
+Quantize 16
+Melody
+               |               |               |               |
+3       3   4 5|    4   3   1  |2       2   1 1|    0   1 2 3 1|
+               |               |               |               |
+ya      sa  siku    a   fu  re  ru      hi  kari        a tatame
+               |.              |               |               |
+6           6 7|1   6   5   4  |5              |        0   3 5|
+               |               |               |               |
+ru          koo     ta  si  ba  fu                          yuki
+            .  |.              |               |               |
+6   6   6   1  |1 7   5   3 3 4|5   5   3   2 2|1       1 2 3 1|
+               |               |               |               |
+no  bo  si  ha  zusi  ta  wakakusa  no  sa  kini        midorino
+               |               |               |               |
+4           3  |2       1 2 3 1|2              |        0      |
+               |               |               |               |
+i           ki  ga      o doridasu
+               |               |               |               |
+3       3   4 5|    4   3   1  |2       2   1 1|    0   1 2 3 1|
+               |               |               |               |
+mi      na  mini    mu  i   ta  ko      ma  dowo        yuruyaka
+               |.              |               |               |
+6           6 7|1   6   5 4 4 4|5              |        0   3 5|
+               |               |               |               |
+ni          hirai   te  mi  reba                            heya
+            .  |.              |            .  |. .   .        |
+6   6   6   1  |1 7   5   3 3 4|5   3   5   2  |2 1 7 1     6 7|
+               |               |               |               |
+wo  to  o   ri  nuke  ru  harukaze  ga  fu  ki  dasukoro    suko
+End Melody
+Quantize 32
+Melody
+.                       .      |.               .     .        |
+1                       3      |2               2     1     7  |
+                               |                               |
+si                      da      ke              to    ki    me
+.                              |                .   .   .   .  |
+1                              |        0       1   2   3   1  |
+                               |                               |
+ku                                              sa  ki  sa  ka
+                            .  |.                   .   .      |
+6               6     6     1  |1       7   7   7   1   2   7  |
+                               |                               |
+ru              ha    na    no  ma      ci  ni  hi  to  ri  ki
+                            .  |.       .   .   .   .   .   .  |
+5               3     5     2  |2       3   1   1   2   3   1  |
+                               |                               |
+ri              ki    se    ki  ma          ta  a   no  hi  to
+                        .      |.               .     .     .  |
+6                       3      |2               2     5     2  |
+                               |                               |
+wa                      mo                      u     ma    re
+.       .   .                  |                .   .   .   .  |
+2       3   3                  |                1   2   3   1  |
+                               |                               |
+ka      wa  ri                                  hi  ro  i   ko
+                            .  |.                   .   .      |
+6               6     6     1  |1       7   7   7   1   2   7  |
+                               |                               |
+no              se    ka    i   a       ru  ku  mu  ne  no  o
+                            .  |.       .   .                  |
+5           3   3     5     2  |2       3   1           6   7  |
+                               |                               |
+ku          ta  ka    na    ru  bo      ku  ni          mi  ra
+.           .   .     .     .  |.           .   .     .        |
+1           1   1     2     3  |2           2   2     1     7  |
+                               |                               |
+i           no  yo    bi    go  e           ga  ki    ko    e
+.       .   .                  |                               |
+2       1   1                  |                0              |
+                               |                               |
+te      i   ru
+End Melody
+
+Quantize 16
+Melody
+               |               |               |               |
+3       3   4 5|    4   3   1  |2       2   1 1|    0   1 2 3 1|
+               |               |               |               |
+to      ki  doki    mi  ra  i   no      ka  gega        u cukusi
+               |.              |               |               |
+6           6 7|1   6   5   4  |5              |        0   3 5|
+               |               |               |               |
+ku          u   ka  n   de  ku  ru                          yume
+            .  |.              |               |               |
+6   6   6   1  |1 7   5     3 4|5   5   3   2 2|1       1 2 3 1|
+               |               |               |               |
+da  yo  to  ji  bun   ni    i   i   ki  ka  sete        sokonine
+               |               |               |               |
+4           3  |2       1 2 3 1|2              |        0      |
+               |               |               |               |
+ru          ko  to      nan tenai
+               |               |               |               |
+3       3   4 5|    4   3   1  |2       2   1 1|    0   1 2 3 1|
+               |               |               |               |
+ko      no  miwo    cu  cu  mu  ha      ya  sini        harunou
+               |.              |               |               |
+6       6   6 7|1   6   5 4 4 4|5              |        0   3 5|
+               |               |               |               |
+ta      wo  micizu  re  ni  site                            mai
+            .  |.              |            .  |. .   .        |
+6   6   6   1  |1 7   5   3 3 4|5   3   5   2  |2 1 7 1     6 7|
+               |               |               |               |
+ni  ci  no  ki  moci  wo  o moi de  no  ha  ko  nikomete    mae
+End Melody
+Quantize 32
+Melody
+.           .   .     .     .  |.           .   .     .        |
+1           1   1     2     3  |2           2   2     1     7  |
+                               |                               |
+e           to  ma    e     e   to          a   ru    i     te
+.                              |                .   .   .   .  |
+1                              |        0       1   2   3   1  |
+                               |                               |
+ru                                              a   sa  gi  ri
+                            .  |.                   .   .      |
+6               6     6     1  |1       7   7   7   1   2   7  |
+                               |                               |
+ga              mi    ra    i   ka      ku  su  so  re  da
+                            .  |.       .   .   .   .   .   .  |
+5               3     5     2  |2       3   1   1   2   3   1  |
+                               |                               |
+te              mi    e     ru  mo      no  ga  mi  ra  i   ja
+                        .      |.               .     .     .  |
+6                       3      |2               2     5     2  |
+                               |                               |
+na                      i       to              si    n     ji
+.       .   .                  |                .   .   .   .  |
+2       3   3                  |                1   2   3   1  |
+                               |                               |
+te      i   ru                                  a   ko  ga  re
+                        .      |.                   .   .      |
+6               6       1      |1       7   7   7   1   2   7  |
+                               |                               |
+no              ho              ko          e   su  su  n   de
+                        .      |.       .   .                  |
+5           3   5       2      |2       3   1           6   7  |
+                               |                               |
+ru              so      re      da      ke  de          ma  yo
+.                       .      |.               .     .        |
+1                       3      |2               2     1     7  |
+                               |                               |
+                        te      wa              i     ka    na
+.                              |                .              |
+1                              |        0       1              |
+                               |                               |
+i                                               ha
+End Melody
+
+Quantize 16
+Melody
+               |            .  |.              |        .      |
+6              |    6   7   1  |1     5 5      |        1      |
+               |               |               |               |
+ru                  ni  da  ka  re      te              i
+               |        .      |.     . .      |        .   .  |
+6              |    7   1   5  |2     3 3      |        4   3  |
+               |               |               |               |
+ma                  wo  hi  ro  ge      te              i   ko
+.              |        .     .|.              |            .  |
+2              |        2     1|5              |            6  |
+               |               |               |               |
+                        i     ko
+.              |        . . . .|
+5              |    0   1 2 3 1|
+               |               |
+                        a sagiri
+End Melody
+
+Quantize 32
+Melody
+                            .  |.                   .   .      |
+6               6     6     1  |1       7   7   7   1   2   7  |
+                               |                               |
+ga              mi    ra    i   ka      ku  su  so  re  da
+                            .  |.       .   .   .   .   .   .  |
+5               3     5     2  |2       3   1   1   2   3   1  |
+                               |                               |
+te              mi    e     ru  mo      no  ga  mi  ra  i   ja
+                        .      |.               .     .     .  |
+6                       3      |2               2     5     2  |
+                               |                               |
+na                      i       to              si    n     ji
+.       .   .                  |                .   .   .   .  |
+2       3   3                  |                1   2   3   1  |
+                               |                               |
+te      i   ru                                  ko  no  he  ya
+                          .    |.                   .   .      |
+6               6    6    1    |1       7   7   7   1   2   7  |
+                               |                               |
+wo              to   o    ri    nu      ke  ru  ha  ru  ka  ze
+                          .    |.       .   .                  |
+5               3    5    2    |2       3   1           6   7  |
+                               |                               |
+ga              fu   ki   da    su      ko  ro          ma  yo
+.                       .      |.               .     .        |
+1                       3      |2               2     1     7  |
+                               |                               |
+                        te      wa              i     ka    na
+.                              |                               |
+1                              |                0       6   7  |
+                               |                               |
+i                                                       ma  yo
+End Melody
+Tempo 67
+Melody
+.                       .      |.               .     .        |
+1                       3      |2               2     1     7  |
+                               |                               |
+                        te      wa              i     ka    na
+.                              |                               |
+1                              |        0                      |
+                               |                               |
+i
+End Melody

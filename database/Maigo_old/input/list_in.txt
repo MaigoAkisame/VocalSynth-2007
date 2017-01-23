@@ -1,0 +1,4 @@
+Jap1.txt Jap1_speak.wav 100 200
+Jap2.txt Jap2_speak.wav 100 200
+Jap3.txt Jap3_speak.wav 100 200
+Jap4.txt Jap4_speak.wav 100 200
